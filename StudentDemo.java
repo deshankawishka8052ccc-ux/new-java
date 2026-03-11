@@ -15,9 +15,9 @@ class Student{
     }
     boolean isPassed(){
         if (mark>=50){
-           return true;  
+    return true;
         }else{
-           return false;
+        return false;
         }
     }
 
